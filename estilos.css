@@ -1,0 +1,33 @@
+*{
+     margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://files.cults3d.com/uploaders/19840678/illustration-file/8c42d506-642a-4a80-8b2d-ae24246e8212/3.png);
+
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+   
+}
+
+p{font-size: xx-large;
+padding: 15%;
+
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75cm;
+
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+
+}
+
+#noBtn{
+    position: absolute;
+}
+
